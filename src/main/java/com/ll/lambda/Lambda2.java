@@ -1,4 +1,4 @@
-package lambda;
+package com.ll.lambda;
 
 @FunctionalInterface
 interface MyFunction2{
